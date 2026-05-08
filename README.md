@@ -1,1 +1,1 @@
-[https://adventofcode.com/2024]() Golang implementation
+[https://adventofcode.com/2025]() JS implementation

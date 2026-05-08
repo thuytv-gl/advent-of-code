@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Debug Bun",
+      "runtimeExecutable": "bun",
+      "runtimeArgs": ["--inspect-brk"],
+      "program": "${file}",
+      "attachSimplePort": 6499
+    }
+  ]
+}
